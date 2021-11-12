@@ -186,19 +186,6 @@ export default function Index() {
       -117.92936766691095
     );
 
-    // var destinationA = new google.maps.LatLng(
-    //   35.34763148279404,
-    //   -119.1008342523971
-    // );
-    // var destinationB = new google.maps.LatLng(
-    //   33.88223690824987,
-    //   -117.88930859993005
-    // );
-    // var destinationC = new google.maps.LatLng(
-    //   34.048918222592384,
-    //   -118.25801648828637
-    // );
-
     const tempArrayDestination = [
       { lat: 34.721659, lng: -120.532379 },
       { lat: 36.2383794, lng: -115.055188 },
